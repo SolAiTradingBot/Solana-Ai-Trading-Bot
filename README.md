@@ -1,8 +1,9 @@
 # SolanaBot - Advanced Solana Trading Bot
 
-![SolanaBot Logo](https://solana.com/static/img/solanaLogoMark.svg)
+![Dashboard](screenshots/dashboard.png)
+*Comprehensive trading dashboard with real-time metrics*
 
-SolanaBot is a high-performance, profit-focused trading bot designed for the Solana blockchain. Built with modern UI/UX principles and a sleek dark theme, it offers a comprehensive suite of trading tools for both beginners and professional traders.
+SolanaBot is a high-performance, profit-focused trading bot designed for the Solana blockchain. Built with modern UI/UX principles and a sleek dark theme, it offers a comprehensive suite of trading tools for both beginners and professional traders. In addition to fully automatic trading transactions, we can suggest you transactions with potential profits and you can manually perform the transactions on the monitor you see.
 
 ## 🚀 Key Features
 
@@ -85,9 +86,6 @@ python3 main.py
 ```
 
 ## 📸 Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-*Comprehensive trading dashboard with real-time metrics*
 
 ![Sniper Bot](screenshots/sniper.png)
 *Advanced token sniping interface*
