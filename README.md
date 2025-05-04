@@ -5,6 +5,23 @@
 
 SolanaBot is a high-performance, profit-focused trading bot designed for the Solana blockchain. Built with modern UI/UX principles and a sleek dark theme, it offers a comprehensive suite of trading tools for both beginners and professional traders. In addition to fully automatic trading transactions, we can suggest you transactions with potential profits and you can manually perform the transactions on the monitor you see.
 
+
+## 🛠️ Installation & Setup
+
+For Windows (CMD):
+```bash
+git clone https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot.git
+cd Solana-Ai-Trading-Bot
+python main.py
+```
+
+For Macos (Terminal):
+```bash
+git clone https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot.git
+cd Solana-Ai-Trading-Bot
+python3 main.py
+```
+
 ## 🚀 Key Features
 
 - **Real-time Trading Dashboard**
@@ -68,22 +85,6 @@ SolanaBot is a high-performance, profit-focused trading bot designed for the Sol
 - "Standard AI" configuration
 - Passive income generation
 - Smart portfolio management
-
-## 🛠️ Installation & Setup
-
-For Windows (CMD):
-```bash
-git clone https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot.git
-cd Solana-Ai-Trading-Bot
-python main.py
-```
-
-For Macos (Terminal):
-```bash
-git clone https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot.git
-cd Solana-Ai-Trading-Bot
-python3 main.py
-```
 
 ## 📸 Screenshots
 
