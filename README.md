@@ -15,7 +15,7 @@ cd Solana-Ai-Trading-Bot
 python main.py
 ```
 The second option for Windows operating systems is to run the packaged application directly:
-[Windows 10/11 One Click App](https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot/releases/download/1.3/SolTrade.bot.zip)
+[Windows 10/11 One Click App](https://github.com/SolAiTradingBot/Solana-Ai-Trading-Bot/releases/)
 
 For Macos (Terminal):
 ```bash
