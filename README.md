@@ -1,4 +1,4 @@
-# SolanaBot - Advanced Solana Trading Bot
+# SolanaNexus - Advanced Solana Trading Bot
 
 ![Dashboard](screenshots/dashboard.png)
 *Comprehensive trading dashboard with real-time metrics*
