@@ -52,9 +52,6 @@ python3 main.py
   - Timeframe Configuration
  
 
-![Sniper Bot](screenshots/sniper.png)
-*Advanced token sniping interface*
-
 ## 🔍 Trading Modules
 
 ### Sniper Bot
@@ -92,10 +89,6 @@ python3 main.py
 - Passive income generation
 - Smart portfolio management
 
-## 📸 Screenshots
-
-![AI Trading](screenshots/ai-trading.png)
-*AI-powered trading module with performance analytics*
 
 ## ❓ FAQ
 
